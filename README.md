@@ -1,5 +1,4 @@
 # Bundled with vite
-bundled with vite
 
 ## to start:
 
